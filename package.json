@@ -1,0 +1,24 @@
+{
+  "name": "elcommune",
+  "version": "1.0.0",
+  "description": "Decentralized Network Node Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letratoken/ElCommune.git"
+  },
+  "keywords": [
+    "Decentralized",
+    "Network",
+    "Node"
+  ],
+  "author": "Letra Token Foundation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/letratoken/ElCommune/issues"
+  },
+  "homepage": "https://github.com/letratoken/ElCommune#readme"
+}
